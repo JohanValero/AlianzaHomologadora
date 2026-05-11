@@ -1,0 +1,6 @@
+ipywidgets
+IProgress
+jupyterlab_widgets
+ipykernel
+matplotlib
+seaborn
